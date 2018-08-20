@@ -1,6 +1,6 @@
 # CUSTOMER JOURNEY
 ## Starbucks
-![Sketch](image/journal.jpg)
+![Sketch](IMAGE/journal.jpg)
 Se divide en dos aspectos Experiencia Positiva y Experiencia Negativa.
 
 Experiencia Positiva: El momento de pedir la bebida fue muy fácil ya que el mismo cajero te va preguntando punto por punto respecto lo que estas pidiendo evitando confusiones, al finalizar tu pedido se paga de manera inmediata, el producto en sí fue bueno, ya que cumplió con lo esperado.
